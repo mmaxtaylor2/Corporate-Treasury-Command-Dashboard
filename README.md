@@ -5,6 +5,7 @@ The Corporate Treasury Command Dashboard is a Streamlit-based analytical control
 This project simulates the type of reporting environment used by corporate treasury teams, CFOs, and liquidity managers to make informed operational and strategic decisions.
 
 ## Live App
+https://corporate-treasury-command-dashboard-4fyjkhjl4wwgzkdrezfydx.streamlit.app
 
 ## Key Capabilities
 
