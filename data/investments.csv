@@ -1,0 +1,6 @@
+Instrument,Type,Amount,Yield,Maturity
+MMF Treasury,MMF,5000000,4.75%,2025-01-15
+6M T-Bill,T-Bill,3000000,5.10%,2025-06-30
+3M CP,Commercial Paper,2000000,5.40%,2025-04-01
+1Y Treasury,T-Bill,2500000,4.90%,2025-12-31
+
